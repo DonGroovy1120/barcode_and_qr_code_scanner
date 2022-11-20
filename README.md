@@ -1,16 +1,13 @@
-# barcode_and_qr_code_scanner
+# barcode_and_qr_code_scanner - Flutter
+This is code completly scan any barcode and QR code and shows the result in a string from. we can use this snippet of code to read any type of barcode, QR and stream of barcode and QR code.
 
-A new Flutter project.
+✔️ Sound NullSafety
 
-## Getting Started
+## GIF
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/202907926-038c5131-3d1c-4784-bc6a-5acc2c2102fc.gif" >
+</p>
